@@ -24,7 +24,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.9.4",
 	"appid": "wx76682c17f8ab72e7",
-	"projectname": "ImoocPayMp",
+	"projectname": "guliPayMp",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

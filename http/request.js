@@ -13,7 +13,7 @@ const clientInfo = {
   'version': App.version,
   'channel':'miniprogram'
 }
-const errMsg = '服务异常，请稍后重试';
+const errMsg = '服务异常`，请稍后重试';
 module.exports = {
   fetch:(url,data={},option={})=>{
     let { loading = true, toast = true, isMock = false, method = 'get' } = option;
